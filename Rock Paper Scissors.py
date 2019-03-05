@@ -1,4 +1,4 @@
-#rock. paper. scissors. game made by Johnny
+#rock. paper. scissors. game made by Nilay
 
 userScore = 0
 #initialised user score variable
